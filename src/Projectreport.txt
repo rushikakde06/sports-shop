@@ -1,0 +1,13 @@
+06/06/2023
+assign online sport shop project
+Create new project folder 
+install react library
+craete demo navigation bar
+
+07/06/2023
+work on product detail duction
+crate form for added user data
+
+
+
+json-server --watch -p 8888 db.json

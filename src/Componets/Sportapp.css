@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@1&family=Poppins:wght@700&display=swap');
+.bg-color{
+    background-color: #fd7e14;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+  
+   
+}
+.navbar1{
+   
+    position: sticky;
+    top: 0;
+     border: 2px solid #4CAF50;
+       
+ 
+
+}
+.position-sticky{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.table{
+   margin-top: 15px;
+
+}
+.h2{
+    position: relative;
+    background-color: lightgreen;
+    font-weight: 800;
+    font-family: 'Poppins', sans-serif;
+    top: 15px;
+   bottom: 20px;
+}
+.f{
+    width: 300px;
+    font-size: 25px;
+}
+.form{
+    background-color: #fd7e14;
+}
+.footer{
+    background-color: black;
+    color: white;
+  
+  
+
+}
+.footer-content{
+    display: flex;
+    justify-content: space-around;
+  
+  
+}
+.footer-column{
+margin-top: 20px;
+}
+
+.copyright{
+    background-color: red;
+    color: black;
+    font-weight: 400;
+}
+.feedback{
+  
+    background-image: url(../Asset/football2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 5px;
+    font-size: 20px;
+   
+   
+}
+.feedbackform1{
+    margin-top: 10px;
+   border-radius: 10px;
+    font-size: 18px;
+    background-image: linear-gradient(rgb(231, 215, 120),rgb(196, 205, 214));
+    box-shadow: 2px 1px 1px red;
+}
+.u1{
+  
+    font-size: 40px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 15px;
+    text-shadow: 2px 1px 1px red;
+    font-weight: 800;
+}
+.u3{
+
+    font-size: 26px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 10px;
+    text-shadow: 2px 1px 1px rgb(32, 35, 218);
+    font-weight: 800;
+}
+.feedbackform{
+    margin-top: 10px;
+   
+    font-size: 25px;
+    background-image: url(../Asset/feedback.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+ 
+}
+
+/* design feedback */
+.ufeedback{
+    background-image: linear-gradient(yellow ,rgb(128, 0, 124));
+    border: 3px solid rgb(100, 45, 5);
+    box-shadow: 5px 2px 7px rgb(19, 19, 19);
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+    position: relative;
+    left: 21%;
+    border-radius: 10px;
+}
+.u2{
+    color: green;
+    font-size: 40px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 15px;
+    text-shadow: 2px 1px 1px red;
+    font-weight: 800;
+    
+}
+.del{
+    height: 20px;
+    width: 20px;
+    background-color: black;
+   
+   
+}
+
+.bdel1{
+   
+    position: relative;
+    
+}
+.bdel{
+    border: none;
+    background-color: black;
+    position: absolute;
+    right: 0;
+    top: 90px;
+   
+   
+}
+.ftd{
+    border: 3px solid rgb(100, 45, 5);
+    width: 200px;
+    font-family: 'Josefin Sans', sans-serif;
+    box-shadow: 2px 2px 2px goldenrod;
+    background-image: linear-gradient(yellow ,green);
+    display: flex;
+}
+.freview{
+    position: relative;
+ /* float: right;
+ margin-bottom: 100px; */
+}
+.dt{
+    text-align: left;
+    width: 250px;
+   height: 150px; 
+    border: solid;
+    background-image: linear-gradient(yellow ,green);
+  /* float: left; */
+  text-align: center;
+  border-radius: 5px;
+ 
+}
+.dl{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 10px;
+
+}
+
+.card-img-top{
+     width: 250px; 
+     height: 500px; 
+     gap: 50px;
+     border: 2px solid red;
+    margin: 12px;
+ 
+}
+
+.card-img-top1{
+    width: 300px; 
+    height: 250px; 
+    gap: 50px;
+    border: 2px solid red;
+   margin: 12px;
+
+}
+
+.sign{
+    background-color: darkkhaki;
+   
+}
+
+
+/* item */
+
+/* .item{ */
+    /* position: relative;
+    top: 200; */
+    /* z-index: 1; */
+/* } */
